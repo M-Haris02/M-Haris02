@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 **BS Commerce Graduate 2025**
   
-- 🌱 I’m currently learning **Python**  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  @iCodeGuru
+- 🌱 I’m currently learning **Python**  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
   
 - 🤔 I’m looking for help with Python [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
   
